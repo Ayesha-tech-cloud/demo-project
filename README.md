@@ -1,2 +1,3 @@
 # demo-project
-this is my first githum project
+this is my first github project
+author-ayesha ansar
